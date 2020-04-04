@@ -1,9 +1,17 @@
+body{
+  border-style:solid;
+  border-width: 5px;
+
+}
+
 .wrapper {
   width: 100vw;
   margin-left: 20vw !important;
   padding-left: 20vw !important;
   margin-right: 20vw !important;
   padding-right: 20vw !important;
+  border-style:solid;
+  border-width: 5px;
 }
 
 .profile-picture {
